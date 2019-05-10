@@ -1,3 +1,18 @@
+@font-face {
+  font-family: Open sans;
+  src: url(/assets/fonts/Open_Sans/OpenSans-Regular.ttf) format('ttf'), url(/assets/fonts/Open_Sans/OpenSans-Bold.ttf) format('ttf');
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url(/assets/fonts/Montserrat/Montserrat-Bold.ttf) format('ttf');
+}
+
+@font-face {
+  font-family: Arvo;
+  src: url(/assets/fonts/Arvo/Arvo-Regular.ttf) format('ttf'), url(assets/fonts/Arvo/Arvo-Bold.ttf) format('ttf');
+}
+
 body {
   font-family: Open sans, Helvetica, sans-serif;
   font-size: 14px;
